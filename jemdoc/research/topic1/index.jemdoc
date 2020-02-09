@@ -1,0 +1,26 @@
+# jemdoc: menu{MENU}{research.html}
+# jemdoc: addcss{../../jemdoc.css}
+= Topic Name
+
+More about this topic.
+
+More about this topic.
+
+The following are a few problems that we are interested to address:
+- Problem 1
+- Problem 2
+- Problem 3
+
+{{<img class="center" style="width: 30em;" src="topic.jpg"></img>}}
+
+== Active lab members
+The following lab members are actively working on this topic:
+- Member 1
+- Member 2
+
+
+== Related publications
+The following publications are related to this topic:
+- M. Member and M. Member. Paper title. Publication info.
+- M. Member and M. Member. Paper title. Publication info.
+

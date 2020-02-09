@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <generator>Easy Feed Editor</generator>
+    <title>HyConSys News Feed</title>
+    <description>The RSS  news feed of the hybrid control systems (HyConSys) group.</description>
+    <link>https://www.hyconsys.com/</link>
+    <copyright>HyConSys Website</copyright>
+    <language>en-us</language>
+    <pubDate>Tue, 09 Jul 2019 20:15:34 GMT</pubDate>
+    <atom:link href="https://hacks.mozilla.org/feed/" rel="self" type="application/rss+xml" />
+    <managingEditor>HyConSys Group</managingEditor>
+    <item>
+      <date>31.01.2020</date>
+      <title>A journal paper got accepted at IEEE Transactions on Automatic Control!	</title>
+      <description><![CDATA[ A journal paper from our lab entitled "Compositional (In)Finite Abstractions for Large-Scale Interconnected
+Stochastic Systems" got accepted at IEEE Transactions on Automatic Control as a full paper!	 ]]></description>
+    </item>
+    <item>
+      <date>16.01.2020</date>
+      <title>Two ACC'20 papers got accepted!</title>
+      <description><![CDATA[ Our papers entitled "Controller synthesis for interconnected systems using parametric assume-guarantee contracts" and "On a notion of approximate opacity for discrete-time stochastic control systems" got accepted at <a href="http://acc2020.a2c2.org/">The 2020 American Control Conference</a>. ]]></description>
+    </item>
+    <item>
+      <date>28.12.2019</date>
+      <title>Two HSCC'20 papers got accepted!</title>
+      <description><![CDATA[ Our regular paper entitled "Compositional Construction of Control Barrier Functions for Interconnected Control Systems" and tool paper entitled "dtControl: Decision Tree Learning Algorithms for Controller Representation" got accepted at  <a href="https://berkeleylearnverify.github.io/HSCC_2020/">the 23rd ACM International Conference on
+Hybrid Systems: Computation and Control</a>. ]]></description>
+    </item>
+    <item>
+      <date>23.12.2019</date>
+      <title>Our ICCPS'20 paper got accepted!</title>
+      <description><![CDATA[ Our paper on formal controller synthesis for unknown continuous-space MDPs via model-free reinforcement learning got accepted at the <a href="http://iccps.acm.org/2020">11th ACM/IEEE International Conference on Cyber-Physical Systems</a> ]]></description>
+    </item>
+    <item>
+      <date>16.12.2019</date>
+      <title>Congratulation to Abolfazl Lavaei!</title>
+      <description><![CDATA[ Abolfazl Lavaei finished his PhD with high distinction! ]]></description>
+    </item>
+    <item>
+      <date>26.11.2019</date>
+      <title>Abolfazl's 2nd Automatica regular paper got accepted!</title>
+      <description><![CDATA[ Abolfazl's 2nd Automatica regular paper entitled "Compositional abstraction-based synthesis for networks of stochastic switched systems" got accepted! ]]></description>
+    </item>
+    <item>
+      <date>06.11.2019</date>
+      <title>Zamani will be the IEEE technical committee chair on hybrid systems in 2020!</title>
+      <description><![CDATA[ Majid Zamani will be the new chair for the <a href="http://hybrid-systems.ieeecss.org">IEEE technical committee on hybrid systems</a> in 2020! ]]></description>
+    </item>
+    <item>
+      <date>19.07.2019</date>
+      <title>Four papers got accepted at CDC'19!</title>
+      <description><![CDATA[Four regular papers got accepted at the <a target="_blank" href="http://cdc2019.ieeecss.org">58th Conference on Decision and Control CDC'19</a>!]]></description>
+    </item>
+    <item>
+      <date>08.07.2019</date>
+      <title>A journal paper got accepted at Nonlinear Analysis: Hybrid Systems!</title>
+      <description><![CDATA[A journal paper from our lab entitled "Compositional Synthesis of Large-Scale Stochastic Systems: A Relaxed Dissipativity Approach" got provisionally accepted at Nonlinear Analysis: Hybrid Systems!]]></description>
+    </item>
+    <item>
+      <date>29.05.2019</date>
+      <title>Abolfazl Lavaei is a finalist for the young author award at IFAC LSS!</title>
+      <description><![CDATA[Abolfazl Lavaei is one of the top three finalists for the young author award at the IFAC Symposium on Large Scale Complex Systems! (<a target="_blank" href="https://sites.google.com/view/ifaclss19">IFAC LSS</a>)! ]]></description>
+    </item>
+    <item>
+      <date>29.05.2019</date>
+      <title>A journal paper got accepted at Automatica!</title>
+      <description><![CDATA[A journal paper from our lab entitled "Compositional Synthesis of Finite Abstractions for Networks of Systems: A Small-Gain Approach" got accepted at Automatica as a full paper!]]></description>
+    </item>
+    <item>
+      <date>26.05.2019</date>
+      <title>A journal paper got accepted at IEEE Transactions on Control of Network Systems!</title>
+      <description><![CDATA[A journal paper from our lab entitled "From Dissipativity Theory to Compositional Abstractions of Interconnected Stochastic Hybrid Systems" got accepted at IEEE Transactions on Control of Network Systems!]]></description>
+    </item>
+    <item>
+      <date>23.05.2019</date>
+      <title>A journal paper got accepted at IEEE Control Systems Letters!</title>
+      <description><![CDATA[A journal paper from our lab entitled "Compositional Synthesis of Symbolic Models for Networks of Switched Systems" got accepted at IEEE Control Systems Letters!]]></description>
+    </item>
+    <item>
+      <date>11.05.2019</date>
+      <title>A journal paper got accepted at Automatica!</title>
+      <description><![CDATA[A journal paper from our lab entitled "Compositional Construction of Infinite Abstractions for Networks of Stochastic Control Systems" got accepted at Automatica as a full paper!]]></description>
+    </item>
+    <item>
+      <date>20.02.2019</date>
+      <title>Three papers got accepted at ECC'19!</title>
+      <description><![CDATA[Three papers from our group got accepted at the 2019 European Control Conference (<a target="_blank" href="https://ecc19.eu/">ECC'19</a>)! ]]></description>
+    </item>
+    <item>
+      <date>26.01.2019</date>
+      <title>Zamani is a program committee chair at the 12th International Workshop on Numerical Software Verification!</title>
+      <description><![CDATA[Majid Zamani jointly with Damien Zufferey are program committee chairs at the 12th International Workshop on Numerical Software Verification. The workshop will be held in conjunction with the 31st International Conference on Computer-Aided Verification (CAV) in New York City, USA, in July 2019. The submission details can be found in the workshop website <a target="_blank" href="http://nsv19.mpi-sws.org/">here</a>! ]]></description>
+    </item>
+    <item>
+      <date>26.01.2019</date>
+      <title>Our case study paper got accepted at TACAS'19!</title>
+      <description><![CDATA[Our case study paper on a parallelized and sparsity-aware controller synthesis approach got accepted at <a target="_blank" href="https://conf.researchr.org/track/etaps-2019/tacas-2019-papers">TACAS'19</a>! ]]></description>
+    </item>
+    <item>
+      <date>25.01.2019</date>
+      <title>A regular and a tool paper got accepted at HSCC'19!</title>
+      <description><![CDATA[A regular paper on compositional verification and synthesis of interconnected embedded control systems and a tool paper on parallelization of symbolic control and utilizing high-performance computing platforms got accepted at <a target="_blank" href="http://hscc2019.eecs.umich.edu/">HSCC'19</a>.]]></description>
+    </item>
+    <item>
+      <date>17.01.2019</date>
+      <title>Zamani joined the Computer Science Department at University of Colorado Boulder! Greetings from flatirons!</title>
+      <description><![CDATA[As of January 7th, 2019, Zamani joined the <a target="_blank" href="https://www.colorado.edu/cs">Computer Science Department</a> at <a target="_blank" href="https://www.colorado.edu/">University of Colorado Boulder</a> as an assistant professor.]]></description>
+    </item>
+    <item>
+      <date>17.01.2019</date>
+      <title>Zamani was appointed as an associate editor of Nonlinear Analysis: Hybrid Systems!</title>
+      <description><![CDATA[Zamani was appointed as one of the associate editors of Nonlinear Analysis: Hybrid Systems! Check <a target="_blank" href="https://www.journals.elsevier.com/nonlinear-analysis-hybrid-systems">here</a> for the details about the journal!]]></description>
+    </item>
+    <item>
+      <date>09.01.2019</date>
+      <title>Zamani was appointed as an associate editor of Discrete Event Dynamic Systems!</title>
+      <description><![CDATA[As of January 1st, 2019, Zamani was appointed as one of the associate editors of Discrete Event Dynamic Systems! Check <a target="_blank" href="https://www.springer.com/mathematics/applications/journal/10626?detailsPage=editorialBoard">here</a> for the details about the journal!]]></description>
+    </item>
+    <item>
+      <date>09.11.2018</date>
+      <title>DFG Research Training Group on "Continuous Verification of Cyber-Physical Systems"!</title>
+      <description><![CDATA[Our DFG Research Training Group on "Continuous Verification of Cyber-Physical Systems" (€6M) got granted! Using this grant, Prof. Zamani together with 9 other PIs aim to verify autonomous cyber-physical systems in the presence of change by integrating control theory, verification and synthesis.]]></description>
+    </item>
+    <item>
+      <date>10.09.2018</date>
+      <title>DFG project on "Compositional synthesis of abstractions for infinite networks"!</title>
+      <description><![CDATA[The HCS group got granted a DFG project on "Compositional synthesis of abstractions for infinite networks"! This is a joint project with Prof. Fabian Wirth at the Faculty of Computer Science and Mathematics in the university of Passau.]]></description>
+    </item>
+    <item>
+      <date>09.08.2018</date>
+      <title>Two papers got accepted at CDC'18!</title>
+      <description><![CDATA[Two papers got accepted at the <a target="_blank" href="https://cdc2018.ieeecss.org/">57th IEEE Conference on Decision and Control</a> to be held in Miami Beach, FL, USA.]]></description>
+    </item>
+    <item>
+      <date>09.08.2018</date>
+      <title>CDC 2018 Full-Day Workshop on "Computation-aware Algorithmic Design for Cyber-Physical Systems"</title>
+      <description><![CDATA[Raphaël Jungers from UC Louvain, Belgium, Maria Prandini from Politecnico di Milano, Italy, Ricardo Sanfelice from University of California Santa Cruz, USA, and Majid Zamani from Technical University of Munich, Germany, are organizing a full-day workshop on "Computation-aware Algorithmic Design for Cyber-Physical Systems" at the 57th IEEE Conference on Decision and Control. Details of the workshop including the list of speakers can be found <a target="_blank" href="http://home.deib.polimi.it/prandini/CDC18_CPS_workshop.html">here</a>.]]></description>
+    </item>
+    <item>
+      <date>01.08.2018</date>
+      <title>Prof. Majid Zamani received an ERC starting grant award!</title>
+      <description><![CDATA[Prof. Majid Zamani received an ERC starting grant (€1.5M) award! Using this grant, he aims to develop an innovative design process, in which the embedded control software is synthesized from high-level correctness requirements in a push-button and formal manner.]]></description>
+    </item>
+    <item>
+      <date>28.06.2018</date>
+      <title>Our ATVA paper on verification of stochastic systems using barrier certificates got accepted!</title>
+      <description><![CDATA[Our paper entitled "Temporal logic verification of stochastic systems using barrier certificates" got accepted at <a target="_blank" href="http://atva-conference.org/">ATVA</a> 2018.]]></description>
+    </item>
+    <item>
+      <date>01.03.2018</date>
+      <title>DFG project on "Information measures for control: Invariance and reachability"!</title>
+      <description><![CDATA[The HCS group got granted a DFG project on "Information measures for control: Invariance and reachability"!]]></description>
+    </item>
+    <item>
+      <date>08.02.2018</date>
+      <title>The HCS group has been selected for Intel® Hardware Accelerator Research Program!</title>
+      <description><![CDATA[The program is spurring research in programming tools, operating systems, and innovative applications for accelerator-based computing systems. This reconfigurable hardware consists of Intel’s Xeon® processor with its Arria 10 FPGA. This server cluster connects Intel® Xeon® processor with an in-package field-programmable gate array (FPGA) via the platform’s high-speed QuickPath interconnect improving system bandwidth. The Intel® FPGA can be programmed to serve as a workload-optimized accelerator offering substantial performance, agility, and energy-efficiency advantages. This solution is suitable for a number of application domains, such as machine learning, data encryption, compression, image processing and video-stream processing. We plan to use this platform to compute automatically embedded control software for large-scale systems very efficiently. ]]></description>
+    </item>
+    <item>
+      <date>21.12.2017</date>
+      <title>Three papers from the HCS group got accepted at HSCC'18!</title>
+      <description><![CDATA[Three papers from the HCS group got accepted at the 21st ACM International Conference on Hybrid Systems: Computation and Control (HSCC 2018)!]]></description>
+    </item>
+    <item>
+      <date>24.03.2017</date>
+      <title>New tool on the synthesis of symbolic controllers!</title>
+      <description><![CDATA[Our new tool, called "QUEST", on the synthesis of symbolic controllers without state-space discretization is publicly available! You can download the tool from the following <a target="_blank" href="/software/quest/">link</a>.]]></description>
+    </item>
+    <item>
+      <date>11.11.2016</date>
+      <title>New tool on the synthesis of symbolic controllers for networked control systems!</title>
+      <description><![CDATA[Our new tool, called "SENSE", on the synthesis of symbolic controllers for networked control systems is publicly available! You can download the tool from the following <a target="_blank" href="/software/sense/">link</a>.]]></description>
+    </item>
+    <item>
+      <date>09.02.2016</date>
+      <title>New tool on the synthesis of symbolic controllers!</title>
+      <description><![CDATA[Our new tool, called "SCOTS", on the synthesis of symbolic controllers is publicly available! You can download the tool from the following <a target="_blank" href="/software/scots/">link</a>.]]></description>
+    </item>
+    <item>
+      <date>26.11.2015</date>
+      <title>Tutorial on "Trustworthy Cyber-Physical Systems"!</title>
+      <description><![CDATA[Look at the following <a target="_blank" href="http://vlsidesignconference.org/includes/pages/VLSID2016_Tutorial_Program.html">link</a> for more information.]]></description>
+    </item>
+    <item>
+      <date>16.10.2015</date>
+      <title>IGSSE project on "Platform-Aware Synthesis of Embedded Control Software"!</title>
+      <description><![CDATA[Our IGSSE project on "Platform-Aware Synthesis of Embedded Control Software" got granted! Look at the following <a target="_blank" href="http://www.igsse.gs.tum.de/research/project/1006-parsec/about.html">link</a> for more information.]]></description>
+    </item>
+    <item>
+      <date>30.07.2015</date>
+      <title>CDC'15 workshop on formal synthesis!</title>
+      <description><![CDATA[Our <a target="_blank" href="http://www.hcs.ei.tum.de/en/workshop">CDC'15 workshop</a>, entitled "Towards Scalable Formal Synthesis of Complex Systems", will take place on December 14, 2015, in Osaka, Japan. The detailed program will be posted later.]]></description>
+    </item>
+    <item>
+      <date>07.07.2015</date>
+      <title>DFG project on "Automated Synthesis of Networked Control Systems"!</title>
+      <description><![CDATA[Our DFG proposal on "Automated Synthesis of Networked Control Systems" got granted!]]></description>
+    </item>
+  </channel>
+</rss>

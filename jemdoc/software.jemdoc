@@ -1,0 +1,25 @@
+# jemdoc: menu{MENU}{software.html}
+= Software
+
+More info about the software development scope of this group.
+
+== [/software/tool1 Tool1]
+~~~
+{}{table}{TABLE_RESEARCH}
+{{<a href="/software/tool1"><img class="float padright10px" src="software/tool1/tool.jpg"></img></a>}}
+More about this tool.
+~~~
+
+== [/software/tool2 Tool2]
+~~~
+{}{table}{TABLE_RESEARCH}
+{{<a href="/software/tool2"><img class="float padright10px" src="software/tool2/tool.jpg"></img></a>}}
+More about this tool.
+~~~
+
+== [/software/tool3 Tool3]
+~~~
+{}{table}{TABLE_RESEARCH}
+{{<a href="/software/tool3"><img class="float padright10px" src="software/tool3/tool.jpg"></img></a>}}
+More about this tool.
+~~~

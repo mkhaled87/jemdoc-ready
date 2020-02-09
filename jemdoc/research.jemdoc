@@ -1,0 +1,34 @@
+# jemdoc: menu{MENU}{research.html}
+= Active Topics
+
+More info about the research directions this group targets.
+
+More info about the research directions this group targets.
+
+== [/research/topic1 Topic1]
+~~~
+{}{table}{TABLE_RESEARCH}
+{{<a href="/research/topic1"><img class="float padright10px" src="research/topic1/topic.jpg"></img></a>}}
+More about this topic. \n\n
+
+[/research/topic1 \[read more\]].
+~~~
+
+== [/research/topic2 Topic1]
+~~~
+{}{table}{TABLE_RESEARCH}
+{{<a href="/research/topic2"><img class="float padright10px" src="research/topic2/topic.jpg"></img></a>}}
+More about this topic. \n\n
+
+[/research/topic2 \[read more\]].
+~~~
+
+== [/research/topic3 Topic3]
+~~~
+{}{table}{TABLE_RESEARCH}
+{{<a href="/research/topic3"><img class="float padright10px" src="research/topic3/topic.jpg"></img></a>}}
+More about this topic. \n\n
+
+[/research/topic3 \[read more\]].
+~~~
+

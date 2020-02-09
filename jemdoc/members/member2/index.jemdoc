@@ -1,0 +1,42 @@
+# jemdoc: menu{MENU}{members.html}
+# jemdoc: addcss{../../jemdoc.css}
+= Member Name
+
+~~~
+{}{img_left}{member.jpg}{Member Name}
+Position @ Sub-Group\n
+[http://www.group-website.com/ Group Name]\n\n
+
+Room: 0000\n
+Street. 00, 000000 City\n
+Tel: +00.00.000.0000\n
+E-Mail: [mailto:member@group-website.com member@group-website.com]\n
+\n
+[http://www.member.com *Personal website*] | [https://www.researchgate.net/profile/member *ResearchGate*] | [https://www.linkedin.com/in/member *LinkedIn*]
+~~~
+
+== Bio and Research
+More info about this member. His current research spans: 
+- Topic 1;
+- Topic 2;
+
+== Teaching
+- Summer Semester: Course 1, 
+- Winter Semester: Course 1.
+
+== SOFTWARE
+- [https://github.com/member/tool tool]: A tool for ....
+
+== Journal Papers
+- M. Member and M. Member. Paper-title. Journal name. (Submitted for publication).
+- M. Member and M. Member. Paper-title. Journal name. (Accepted, to appear).
+- M. Member and M. Member. Paper-title. Journal name. Publication info.
+
+== Conference Papers
+- M. Member and M. Member. Paper-title. Conference name. (Submitted for publication).
+- M. Member and M. Member. Paper-title. Conference name. (Accepted, to appear).
+- M. Member and M. Member. Paper-title. Conference name. Publication info.
+
+== Posters
+- M. Member and M. Member. Paper-title. Event name. Publication info.
+

@@ -1,0 +1,50 @@
+# jemdoc: menu{MENU}{teaching.html}
+# jemdoc: addcss{../../jemdoc.css}
+= Course Name
+
+~~~
+== General information:
+- Instructor: M. Member ([mailto:member@group-name.com member@group-name.com])
+- During XXXX semesters
+- Days: Mondays, Wednesdays, and Fridays
+- Time: 1:00 PM -- 1:50 PM
+- Room: XXXX 1234
+- Office hours: Mondays, 2:00 PM -- 3:00 PM and by appointment
+- Graduate student staff (GSS): M. Member
+~~~
+
+
+== Course Description:
+More about this course.
+~~~
+
+== Prerequisites:
+- Requires prerequisite courses of XXXX and XXXXX or XXXX (all minimum grade C-).
+~~~
+
+== List of principal topics includes:
+- Main-Topic-1:
+-- Sub-Tiopic-1.1
+-- Sub-Tiopic-1.2
+
+- Main-Topic-2:
+-- Sub-Tiopic-2.1
+-- Sub-Tiopic-2.2
+
+~~~
+
+== Lecture Notes:
+- Lecture notes can be found in this [https://the-linl link].
+
+~~~
+
+== Textbook:
+- M. Member. [https://book-url Book title]. Publication info.
+~~~
+
+== Grading:
+- Assignments: xx%
+-- More info about assignments.
+- Midterm exam: xx%
+- Final exam: xx%
+~~~

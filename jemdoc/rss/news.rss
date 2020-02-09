@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+	<generator>Easy Feed Editor</generator>
+	<title>Website News Feed</title>
+	<description>The RSS news feed of the XXXX group.</description>
+	<language>en-us</language>
+	<pubDate>Tue, 09 Jul 2019 20:15:34 GMT</pubDate>
+	<atom:link href="https://hacks.mozilla.org/feed/" rel="self" type="application/rss+xml" />
+	<managingEditor>Group Name</managingEditor>
+
+
+		<item>
+			<date>01.01.2000</date>
+			<title>Computers are still working!</title>
+			<description><![CDATA[Computers are still working!]]></description>
+		</item>      
+
+	</channel>
+</rss>

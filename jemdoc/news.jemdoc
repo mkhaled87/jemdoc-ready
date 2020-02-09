@@ -1,0 +1,7 @@
+# jemdoc: menu{MENU}{news.html}
+= News
+
+~~~
+{}{raw}
+<iframe src="rss/news.html" style="border-width:0; border-style:none;" height="800px" width="100%" scrolling="yes"></iframe>
+~~~

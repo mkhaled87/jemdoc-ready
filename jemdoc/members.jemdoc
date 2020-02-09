@@ -1,0 +1,42 @@
+# jemdoc: menu{MENU}{members.html}
+= Members
+
+== Position 1
+~~~
+{}{table}{TABLE_MEMBERS}
+Name  | Email | Phone ||
+[/members/member1 Member Name]	| [mailto:member1@group-website.com mailto:member1@group-website.com]	| \+0.000.000.0000
+~~~
+
+== Position 2
+~~~
+{}{table}{TABLE_MEMBERS}
+Name  | Email | Phone ||
+[/members/member2 Member Name]	| [mailto:member2@group-website.com mailto:member2@group-website.com]	| \+0.000.000.0000 ||
+[/members/member3 Member Name]	| [mailto:member3@group-website.com mailto:member3@group-website.com]	| \+0.000.000.0000
+~~~
+
+
+== Past Members
+~~~
+{}{table}{TABLE_MEMBERS}
+Name | Old Position | Current Position ||
+Past Member 1 | Position | Better Position ||
+Past Member 2 | Position | Better Position ||
+Past Member 3 | Position | Better Position
+~~~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

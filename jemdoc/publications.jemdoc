@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{publications.html}
+= Publications
+
+== Preprints
+. M. Member, and M. Member. [https://arxiv.org/pdf/code Publication title.] Submitted for publication. 
+
+== Books
+
+. M. Member and M. Member. [https://book-url Book Title.] Publication info.
+
+== Journal Papers
+
+- M. Member and M. Member. Paper-title. Journal name. (Submitted for publication).
+- M. Member and M. Member. Paper-title. Journal name. (Accepted, to appear).
+- M. Member and M. Member. Paper-title. Journal name. Publication info.
+
+== Conference Papers
+- M. Member and M. Member. Paper-title. Conference name. (Submitted for publication).
+- M. Member and M. Member. Paper-title. Conference name. (Accepted, to appear).
+- M. Member and M. Member. Paper-title. Conference name. Publication info.
+

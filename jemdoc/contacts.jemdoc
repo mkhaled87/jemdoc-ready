@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{contacts.html}
+= Contacts
+
+More info about this group.
+
+== Contacts
+~~~
+{}{table}{TABLE_CONTACTS}
+{{<iframe width="400" height="400" id="gmap_canvas" src="https://maps.google.com/maps?q=Giza%20Pyramids&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>}}	| 
+Main Organization\n
+City and Country\n\n
+
+Group Name\n
+Detailed Address line 1\n
+Detailed Address line 2\n\n
+
+*Contact person:* M. Member\n
+*Office:* XXXX 1234\n
+*Phone:* +0.000.000.000\n
+*E-Mail:* [mailto:member@group-website.com member@group-website.com]\n
+~~~

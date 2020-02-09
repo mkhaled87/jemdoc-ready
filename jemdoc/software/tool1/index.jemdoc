@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU}{software.html}
+# jemdoc: addcss{../../jemdoc.css}
+= Tool name
+
+
+~~~
+{}{table}{TABLE_RESEARCH}
+{{<img class="float padright10px" style="width: 40%; max-width: 100%;" src="tool.jpg"></img></a>}}
+
+More about this tool.\n\n
+More about this tool.
+~~~
+
+
+== Tool Paper
+~~~
+{}{table}{TABLE_RESEARCH}
+M. Member and M. Zamani. Tool paper title. Publication info.
+~~~
+
+== Download
+~~~
+{}{table}{TABLE_RESEARCH}
+The latest version is available [https://tool-url here].
+~~~
+
+== Support
+~~~
+{}{table}{TABLE_RESEARCH}
+Please report any problems/bugs you face while installing and running the tool to M. Member.
+~~~
